@@ -1,11 +1,13 @@
 .header{
     background-color: #FFE3EF;
-    height: 250px;
+    height: 200px;
+    font-size: larger;
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: xx-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-
 }
 
 img{
@@ -14,14 +16,15 @@ img{
 
 .body{
     height: 250px;
-    background-color: bisque;
-    display: flex;
-    align-items: top;
+    background-color: #F1E5DE;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
 }
 
 .pesquisa{
-    background-color: white;
-    align-items: top;
-
+    height: 50px;
+    background-color: #ffffff;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
