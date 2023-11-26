@@ -1,0 +1,27 @@
+.header{
+    background-color: #FFE3EF;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+
+img{
+    width: 200px;
+}
+
+.body{
+    height: 250px;
+    background-color: bisque;
+    display: flex;
+    align-items: top;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pesquisa{
+    background-color: white;
+    align-items: top;
+
+}
