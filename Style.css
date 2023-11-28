@@ -1,4 +1,8 @@
-.header{
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+
+.header{   
+    margin-top: -10px;
     background-color: #FFE3EF;
     height: 200px;
     font-size: larger;
@@ -9,22 +13,82 @@
     font-size: xx-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
-
+.textoheader{
+    font-family: 'Italianno', cursive;
+    font-family: Italianno;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+.logoinsta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 161px;
+    height: 160px;
+    padding: 10px;
+}
 img{
     width: 200px;
 }
 
-.body{
-    height: 250px;
-    background-color: #F1E5DE;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: larger;
-}
+
 
 .pesquisa{
     height: 50px;
     background-color: #ffffff;
+    margin-top: 10px;
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+}
+#areatxt{
+    background-color: #F1E5DE;
+    border-radius: 10px;
+}
+.parte2{
+    background-color: #eadfd9;
+    display:flex;
+    justify-content: space-around;
+}
+.card1{
+    background-color: #F1E5DE;
+    padding: 50px;
+    height: 100px;
+    width: 100px;
+}
+.card2{
+    background-color: #F1E5DE;
+    padding: 50px;
+    height: 100px;
+    width: 100px;
+}
+.card3{
+    background-color: #F1E5DE;
+    padding: 50px;
+    height: 100px;
+    width: 100px;
+}
+#imgparte2{
+ 
+    height: 100px;
+    width: 100px;
+
+}
+.parte3{
+    margin-top: 7px;
+    background-color: #472e21;
+    height: 30%;
+    display:flex;
+    justify-content: space-around;
+}
+.circulo{
+    background-color: #c24700;
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-right: 65%;
+
 }
