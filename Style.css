@@ -77,21 +77,59 @@ img{
 }
 .parte3{
     margin-top: 7px;
-    background-color: #472e21;
-    height: 30%;
-    display:flex;
+    background-color: #ffffff;
+    height: 15%;
+    display:relative;
     justify-content: space-around;
 }
 .circulo{
-    background-color: #c24700;
-    margin-top: 10px;
-    width: 150px;
-    height: 150px;
+    background-color: #FFE3EF;
+    margin-top: 3px;
+    width: 75px;
+    height: 75px;
     border-radius: 100%;
     margin-right: 65%;
+}
+
+
+.nada{
+    width: 1728px;
+    height: 10px;
+    flex-shrink: 0;
+    background-color: #ffffff;
+    border-radius: 40px;
+}
+
+.populares{
+    width: 1728px;
+    height: 150px;
+    flex-shrink: 0;
+    background-color: #F1E5DE;
+}
+
+.nada1{
+    width: 1728px;
+    height: 10px;
+    flex-shrink: 0;
+    background-color: #ffffff;
 
 }
 
+.promocao{
+    width: 1728px;
+    height: 150px;
+    flex-shrink: 0;
+    background-color: #F1E5DE;
+
+}
+
+.nada2{
+    width: 1728px;
+    height: 10px;
+    flex-shrink: 0;
+    background-color: #ffffff;
+
+}
 
 .footer{
     background-color: #FFE3EF;
@@ -114,5 +152,5 @@ img{
 .atendimentoo{
     text-align: right;
     display: list-item;
-
 }
+
