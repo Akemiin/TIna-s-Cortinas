@@ -15,7 +15,6 @@
 }
 .textoheader{
     font-family: 'Italianno', cursive;
-    font-family: Italianno;
     font-size: 50px;
     font-style: normal;
     font-weight: 400;
@@ -90,5 +89,30 @@ img{
     height: 150px;
     border-radius: 100%;
     margin-right: 65%;
+
+}
+
+
+.footer{
+    background-color: #FFE3EF;
+    height: 250px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.Sobree{
+    text-align: left;
+    display: list-item;
+
+}
+
+.Ajudaa{
+    text-align: center;
+    display: list-item;
+}
+
+.atendimentoo{
+    text-align: right;
+    display: list-item;
 
 }
